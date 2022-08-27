@@ -23,7 +23,7 @@ Para editar este repositório no MakeCode.
 "Essa imagem mostra o bloco de códigos da última confirmação no "mestre"".
 Esta imagem pode demorar alguns minutos para atualizar.
 
-![Uma visão renderizada dos blocos](https://github.com/thiagoks-7/microbit-servo_example/raw/master/.github/makecode/blocks.png)
+<img src="https://user-images.githubusercontent.com/83460816/187026429-bb54e21c-dce0-4bb2-82ef-c86069a5987b.png" />
 
 #### Metadados (usados para pesquisa, renderização)
 
